@@ -1,0 +1,10 @@
+40pts
+deadline: June 13, 2020
+
+Choose a previous program/system developed from last semester (Fundamentals of Database System) and migrate the JDBC connection and implementation to HIBERNATE. Accommodating foreign key constraints and other constraints from the database is not required for this quiz.
+
+If I encounter any errors you will receive -10 in this quiz, so please submit all necessary files to execute your program smoothly.
+
+Once you're done with the quiz, upload all necessary files inside Quiz 2 Submission folder and create your own folder name with format [Last Name]_[First Name] e.g., Abarro_RicoSancho. Failure to follow instructions will receive -10 in this quiz.
+
+GOODLUCK! STAY SAFE! 
